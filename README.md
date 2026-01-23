@@ -32,4 +32,4 @@ When removing an element from the stack, check if the stack is empty.
 
 Removal involves decreasing the top variable by one, not actually removing the element from the array.
 Task 6.
-Create stack handling functions using the list implementation. Write a program that uses these functions.
+Create stack handling functions using the list implementation. Write a program that uses these functions
