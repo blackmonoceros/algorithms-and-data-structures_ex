@@ -1,5 +1,5 @@
 _____________________________________________________________________________________________________________________________
-# algorithms-and-data-structures_ex
+# algorithms-and-data-structures_ex 
 Exercises 2
 
 Let's define a stack as follows:
